@@ -60,4 +60,4 @@ From your results you should conclude:
 
 Length is the strongest lever; variety helps but predictable patterns are weak; uniqueness + MFA mitigates real-world risks.
 
-
+**Note=** I add my own developed password strength checker tool using html, css and javascript | file named as **"pass.html"** 
